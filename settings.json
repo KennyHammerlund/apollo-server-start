@@ -1,0 +1,9 @@
+{
+  "firebase": {
+    "apiKey": "AIzaSyAKpZBvjSfci152yGOKOJo-cJvMcnV7-bk",
+    "authDomain": "summit-example.firebaseapp.com",
+    "databaseURL": "https://summit-example.firebaseio.com",
+    "projectId": "summit-example",
+    "storageBucket": "summit-example.appspot.com"
+  }
+}

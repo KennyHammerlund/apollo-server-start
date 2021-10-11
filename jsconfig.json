@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "module": "commonjs",
+    "paths": {
+      "@root/*": ["./*"],
+      "@services/*": ["./services/*"],
+      "@models/*": ["./models/*"],
+      "@env/*": ["./env/*"],
+      "@utils/*": ["./utils/*"],
+      "@errors/*": ["./utils/errors/*"],
+      "@resolvers/*": ["./graphql/resolvers/*"],
+      "@dataSources/*": ["./dataSources/*"],
+    }
+  },
+  "exclude": ["node_modules"]
+}
